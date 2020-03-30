@@ -18,7 +18,7 @@ http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 group-title="港澳台频道",星空卫视
 rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 group-title="港澳台频道",東森電影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="港澳台频道",東森洋片
 http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="港澳台频道",凤凰中文台HD
@@ -29,46 +29,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 group-title="港澳台频道",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 group-title="港澳台频道",TVB 翡翠台备用
-http://hk.tv0668.com/dl/hk520.php?id=1
-#EXTINF:-1 group-title="港澳台频道",TVB J2
-http://hk.tv0668.com/dl/hk520.php?id=12
-#EXTINF:-1 group-title="港澳台频道",Viu TV
-http://hk.tv0668.com/dl/hk520.php?id=8
-#EXTINF:-1 group-title="港澳台频道",凤凰中文台
-http://hk.tv0668.com/dl/hk520.php?id=2
-#EXTINF:-1 group-title="港澳台频道",凤凰资讯备用
-http://hk.tv0668.com/dl/hk520.php?id=3
-#EXTINF:-1 group-title="港澳台频道",香港卫视备用
-http://hk.tv0668.com/dl/hk520.php?id=6
-#EXTINF:-1 group-title="港澳台频道",香港明珠台备用
-http://hk.tv0668.com/dl/hk520.php?id=13
-#EXTINF:-1 group-title="港澳台频道",香港TVB星河
-http://hk.tv0668.com/dl/hk520.php?id=17
-#EXTINF:-1 group-title="港澳台频道",耀才财经备用
-http://hk.tv0668.com/dl/hk520.php?id=19
-#EXTINF:-1 group-title="港澳台频道",香港RHK32台
-http://hk.tv0668.com/dl/hk520.php?id=21
-#EXTINF:-1 group-title="港澳台频道",澳门卫视备用
-http://hk.tv0668.com/dl/hk520.php?id=23
-#EXTINF:-1 group-title="港澳台频道",澳亚卫视备用
-http://hk.tv0668.com/dl/hk520.php?id=24
-#EXTINF:-1 group-title="港澳台频道",HBO电影台
-http://hk.tv0668.com/dl/hk520.php?id=27
-#EXTINF:-1 group-title="港澳台频道",香港电影台
-http://hk.tv0668.com/dl/hk520.php?id=30
-#EXTINF:-1 group-title="港澳台频道",香港新闻台
-http://hk.tv0668.com/dl/hk520.php?id=31
-#EXTINF:-1 group-title="港澳台频道",香港综合娱乐台
-http://hk.tv0668.com/dl/hk520.php?id=34
-#EXTINF:-1 group-title="港澳台频道",香港经典武侠台
-http://hk.tv0668.com/dl/hk520.php?id=35
 #EXTINF:-1 group-title="港澳台频道",国家地理备用
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 group-title="港澳台频道",東森電影备用
-http://58.99.33.2:1935/liveedge2/LANmrsaD_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="港澳台频道",卫视電影
-http://58.99.33.2:1935/liveedge2/LANmrsaD_61_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
 #EXTINF:-1 group-title="广东频道",广东珠江台HD
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=79
